@@ -1,4 +1,4 @@
- # Week-05 Project
+ # To find maximum temparature in NCDC dataset for years 1950 and 1986
 
 This project is subdivided into 4 phases, Below are the results for all the phases:
 
