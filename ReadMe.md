@@ -77,13 +77,13 @@ Step 5 : Execute command "python MaxTemp50.py" to run the code and similarly run
 
 ### DB schema for table NCDC_1950 ( 1950.txt file) 
     file size : 2.16 GB ,Time taken to insert all records into mysql DB : 1 hr , 10 mins
-![DB Schema_NCDC_1950](/images/1950_Schema.PNG "1950_Schema") 
+![DB Schema_NCDC_1950](/images/1950_schema.PNG "1950_Schema") 
 
 ### DB schema for table NCDC_1986 ( 1986.txt file) 
-![DB schema_NCDC_1986](/images/1986_Schema.PNG "1986_Schema") 
+![DB schema_NCDC_1986](/images/1986_schema.PNG "1986_Schema") 
 
 ### DB schema for table NCDC_1950_1986 ( 1986.txt file and 1950.txt file combined together) 
-![DB schema_NCDC_1950_1986](/images/5086_Schema.PNG "5086_Schema.PNG") 
+![DB schema_NCDC_1950_1986](/images/5086_schema.PNG "5086_Schema.PNG") 
 
 
 ### Max temp for 1950
